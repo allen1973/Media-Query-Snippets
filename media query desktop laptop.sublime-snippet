@@ -10,5 +10,5 @@ and (min-width : 1224px) {
 	<tabTrigger>media query desktop/laptop</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
-	<description>desktop & laptop</description>
+	<description>電腦版</description>
 </snippet>
